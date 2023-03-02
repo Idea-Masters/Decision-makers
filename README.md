@@ -5,4 +5,5 @@
  
  Our aim!!
  # help in gathering information. 
- # Inspired by https://www.nic.in/
+ # Inspired by: -https://www.nic.in/
+ # Resources: -https://www.india.gov.in/india-glance/profile
